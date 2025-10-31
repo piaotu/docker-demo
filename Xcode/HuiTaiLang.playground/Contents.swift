@@ -8,5 +8,5 @@ print(number)
 let number2:Int=2
 print(number2)
 
-let name = "漂土"
+let name = "帅羊羊"
 print("你好 \(name)")
