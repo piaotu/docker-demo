@@ -36,7 +36,7 @@ Mode                 LastWriteTime         Length Name
 
 //JSON文件中不允许有注释
 
-z终端中 Ctrl + C 停掉服务。
+终端中 Ctrl + C 停掉服务。
 
 构建推送镜像:
 
